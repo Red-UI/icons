@@ -1,0 +1,20 @@
+{
+  "name": "redui-icons",
+  "version": "0.1.0",
+  "description": "redui icons",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Red-UI/redui-icons.git"
+  },
+  "keywords": [],
+  "author": "Ming",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Red-UI/redui-icons/issues"
+  },
+  "homepage": "https://github.com/Red-UI/redui-icons#readme"
+}
