@@ -4,6 +4,8 @@ redui icons
 
 矢量 icon 
 
+
+
 ### 参数 (Props)
 | 参数名  | 说明      | 必填   | 类型       | 默认值     | 可选值                                      |
 | ---- | ------- | ---- | -------- | ------- | ---------------------------------------- |
@@ -11,8 +13,6 @@ redui icons
 | size | icon 大小 | 否    | `string` | small   | small, large                             |
 
 
-
-![icons](icons.png)
 
 ### Author
 
