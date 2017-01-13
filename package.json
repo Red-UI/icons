@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Red-UI/redui-icons/issues"
   },
-  "homepage": "https://github.com/Red-UI/redui-icons#readme"
+  "homepage": "https://github.com/Red-UI/redui-icons#readme",
+  "dependencies": {
+    "classnames": "^2.2.5"
+  }
 }
